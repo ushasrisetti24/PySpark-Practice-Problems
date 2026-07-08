@@ -24,9 +24,8 @@ I am running these exercises locally by hosting Docker on my desktop, which allo
 ---
 
 ### 📂 What You’ll Find Here
-- Scripts showcasing specific ETL transformations (`etl_functions/`).
-- Jupyter notebooks with examples (`notebooks/`).
-- Documentation of input/output DataFrame transformations.
+- Jupyter notebooks with code for each question (`notebooks/`).
+- Documentation of problem along with input/output DataFrame transformations.
 
 ---
 
