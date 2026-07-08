@@ -9,7 +9,7 @@ I am running these exercises locally by hosting Docker on my desktop, which allo
 ---
 
 ### 🎯 Purpose
-- Strengthen my understanding of **PySpark transformations** such as `regexp_extract`, `regexp_replace`, and `substring_index`.
+- Strengthen my understanding of **PySpark transformations** 
 - Practice **ETL techniques** for cleaning, anonymizing, and restructuring data.
 - Gain hands‑on experience with **Dockerized Spark environments**, ensuring reproducibility and portability.
 - Build a portfolio of practical solutions that demonstrate my ability to handle distributed data processing tasks.
@@ -20,7 +20,6 @@ I am running these exercises locally by hosting Docker on my desktop, which allo
 - **Apache Spark (PySpark)**
 - **Python 3**
 - **Docker Desktop**
-- **Regex (Regular Expressions)**
 
 ---
 
